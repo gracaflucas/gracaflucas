@@ -6,7 +6,7 @@
     
 I'm a Software Engineer sharing about my learning proccess<br/>
 Currently studying at [42 School](https://www.42porto.com/), Porto<br/>
-<a href="https://www.linkedin.com/in/gracaflucas/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+<a href="https://www.linkedin.com/in/lucasgraca/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
 <a href = "mailto:lucasgraca.adm@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
 
 ###
