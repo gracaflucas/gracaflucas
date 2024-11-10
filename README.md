@@ -1,4 +1,4 @@
-### Hi, i'm Lucas! 👋
+### Hi, i'm Lucas!  👋
 
 <p align="left">
   <a href="https://github.com/gracaflucas/readme-typing-svg">
