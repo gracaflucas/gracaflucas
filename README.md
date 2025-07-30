@@ -29,3 +29,17 @@ Always open to collaboration, feedback, and good coffee. ☕
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+
+
+| Repository    | Description                                         | Link                                                      |
+|---------------|-----------------------------------------------------|-----------------------------------------------------------|
+| CPP-Modules   | C++ modules projects                                |  [View Repo](https://github.com/gracaflucas/CPP-Modules)  |
+| 42_Cube3D     | 3D raycasting game inspired by classic Doom         | [View Repo](https://github.com/gracaflucas/42_Cube3D)     |
+| 42_Minishell  | Unix-like shell implementation                      |  [View Repo](https://github.com/gracaflucas/42_Minishell) |
+| Philosophers  | Dining Philosophers problem implementation          | [View Repo](https://github.com/gracaflucas/Philosophers)  |
+| So_Long       | 2D game project using Minilibx for graphics         |[View Repo](https://github.com/gracaflucas/So_Long)        |
+| Minitalk      | Client/server messaging program using signals       | [View Repo](https://github.com/gracaflucas/Minitalk)      |
+| Push_Swap     | Sorting algorithm project                           |  [View Repo](https://github.com/gracaflucas/Push_Swap)    |
+| GetNextLine   | Reads line by line from a file descriptor           | [View Repo](https://github.com/gracaflucas/GetNextLine)   |
+| ft_printf     | Mini version of printf function                     |  [View Repo](https://github.com/gracaflucas/ft_printf)    |
+| Libft         | Custom C library                                    |  [View Repo](https://github.com/gracaflucas/Libft)        |
