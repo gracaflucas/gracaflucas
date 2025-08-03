@@ -1,5 +1,5 @@
 ### Hi, i'm Lucas!  👋
-### — a software developer from Brazil, currently based in Portugal.
+### a software developer from Brazil, currently based in Portugal.
 I dive deep into systems programming, C/C++, and all things low-level.
 
 I love building things that actually help people, and I’m especially drawn to projects where I can learn, break stuff, and figure out how it all really works.
