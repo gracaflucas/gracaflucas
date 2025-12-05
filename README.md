@@ -31,9 +31,12 @@ Always open to collaboration, feedback, and good coffee. ☕
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac++"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 
 
@@ -41,6 +44,8 @@ Always open to collaboration, feedback, and good coffee. ☕
 
 | Repository    | Description                                         | Language | Link                                                      |
 |---------------|-----------------------------------------------------|----------|-----------------------------------------------------------|
+| IRC           | Internet Relay Chat server                          | C++      | [View Repo](https://github.com/gracaflucas/IRC)           |
+| Inception     | Docker-based multi-service infrastructure project   | Docker   | [View Repo](https://github.com/gracaflucas/Inception)     |
 | CPP-Modules   | C++ modules projects                                | C++      | [View Repo](https://github.com/gracaflucas/CPP-Modules)   |
 | Cube3D        | 3D raycasting game inspired by classic Doom         | C        | [View Repo](https://github.com/gracaflucas/42_Cube3D)     |
 | Minishell     | Unix-like shell implementation                      | C        | [View Repo](https://github.com/gracaflucas/42_Minishell)  |
@@ -59,3 +64,5 @@ Always open to collaboration, feedback, and good coffee. ☕
 | Repository           | Description                           | Language | Link                                                             |
 |----------------------|---------------------------------------|----------|------------------------------------------------------------------|
 | Echoes of the Forest | In-progress educational game <br> exploring deforestation and wildlife <br> trafficking through immersive gameplay | C++  | [View Repo](https://github.com/gracaflucas/echoes-of-the-forest) |
+| Crochet Store        | E-commerce-style crochet store website           | HTML/CSS | [View Repo](https://github.com/gracaflucas/crochet-store-website)|
+| CV                   | My CV in HTML/CSS                                | HTML/CSS | [View Repo](https://github.com/gracaflucas/CV)                   |
