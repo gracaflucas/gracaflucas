@@ -8,10 +8,15 @@ Always open to collaboration, feedback, and good coffee. ☕
 
 <p align="left">
   <a href="https://github.com/gracaflucas/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&Center=false&width=440&height=45&color=f75c7e&vCenter=false&pause=1000&size=22" /></a></p>
-    
-<a href="https://www.linkedin.com/in/lucasgraca/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&Center=false&width=440&height=45&color=f75c7e&vCenter=false&pause=1000&size=22" />
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/lucasgraca/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
 <a href = "mailto:lucasgraca.adm@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+</a>
+</p>
 
 ###
 
