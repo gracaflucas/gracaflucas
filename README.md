@@ -7,23 +7,24 @@ When i'm not coding, you'll probably find me hiking or chasing the sunset.
 Always open to collaboration, feedback, and good coffee. ☕
 
 <p align="left">
-  <a href="https://github.com/gracaflucas/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&Center=false&width=440&height=45&color=f75c7e&vCenter=false&pause=1000&size=22" />
+  <a href="https://github.com/gracaflucas/readme-typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&Center=false&width=440&height=45&color=f75c7e&pause=1000&size=22" alt="typing svg" />
   </a>
 </p>
+
 <p>
-  <a href="https://www.linkedin.com/in/lucasgraca/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lucasgraca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
-<a href = "mailto:lucasgraca.adm@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-</a>
+  <a href="mailto:lucasgraca.adm@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
+  </a>
 </p>
 
-###
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gracaflucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gracaflucas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&cache_bust=1" height="150" alt="languages graph" />
-</div>
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gracaflucas&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gracaflucas&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" alt="languages graph" />
+</div> -->
 
 
 ### 🧰Languages and Tools
