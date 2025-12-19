@@ -22,7 +22,7 @@ Always open to collaboration, feedback, and good coffee. ☕
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gracaflucas&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="stats graph" />
+  <!----- <img src="https://github-readme-stats.vercel.app/api?username=gracaflucas&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="stats graph" /> ---->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gracaflucas&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" alt="languages graph" />
 </div>
 
